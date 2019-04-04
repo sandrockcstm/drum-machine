@@ -78,7 +78,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        <ReactFCCTest />
         <div id="drum-machine">
           <div id="display">{this.state.display}</div>
           <div className="col">
