@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./App.css";
-import ReactFCCTest from "react-fcctest";
 import Drumpad from "./components/drumpad";
 
 const data = [
